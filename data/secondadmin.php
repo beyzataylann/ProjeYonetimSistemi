@@ -72,7 +72,11 @@
                             </a>
                         </li>
                         
-                        
+                        <li class="nav-item">
+                            <a class="nav-link" href="http://localhost/ProjeYonetimSistemi/proje/gorev_sil.html">
+                                Görev Sil
+                            </a>
+                        </li>
                         
                         <li class="nav-item">
                             <a class="nav-link" href="http://localhost/ProjeYonetimSistemi/proje/calisan_guncelle.php">
